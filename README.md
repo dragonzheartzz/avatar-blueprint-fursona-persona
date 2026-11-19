@@ -3,79 +3,124 @@
 **Project:** Aletheia Emergence  
 **Service:** Avatar Blueprint  
 **Initial ecosystem under investigation:** VRChat  
-**Project stage:** Concept and service definition  
+**Project stage:** Service vision and concept definition  
 **Last updated:** 19 November 2026
 
 ## Service brief
 
 ### The proposition
 
-Avatar Blueprint is a guided research and planning service that turns a customer's fursona, persona, character concept or existing avatar idea into a practical, personalised blueprint for creating the avatar they want.
+Avatar Blueprint is a personalised, human-and-AI collaborative service that helps customers turn a fursona, persona or character idea into a character they can genuinely feel attached to, then work out how to bring that character into existence.
 
-A customer explains the character, desired appearance, style, platform, budget, preferences and constraints. We translate that brief into a coherent plan covering the avatar foundation and the components needed to achieve the intended overall look, including relevant clothing, hair, accessories, props, textures and personalised details.
+Customers can arrive at any point: with only a spark of an idea, a developing concept, a completed character sheet, an existing avatar, or a precise brief for assets they want us to find or create. They do not need to know the technical language or understand the asset marketplace before approaching us.
 
-The blueprint brings together suitable options from relevant creator and asset sources, direct links, listed prices where available, estimated total asset spend, compatibility evidence, dependencies, licence considerations and any gaps that may require fitting, modification or custom creation.
+We combine customer understanding, creative interpretation where wanted, structured research, increasingly automated asset discovery and clear one-to-one communication. Depending on the brief, the work may involve helping shape the character, preparing a character sheet, sourcing existing assets, assessing compatibility and costs, identifying gaps, creating individual custom assets, or progressing into a separate Auto-Avatars production service.
 
-**In short: the customer describes the avatar they want; we research the pieces, assess how they fit together, make the costs and uncertainties visible, and give them a plan they can use.**
+**The customer's vision remains theirs. Our job is to help them realise it, with the level of involvement and guidance that suits them.**
 
-### The customer's outcome
+### A flexible service, not a prescribed journey
 
-The customer receives a useful, portable plan rather than an opaque recommendation or a list of search results. It should help them understand:
+Customers will have different needs and preferences. We should support several ways of working:
 
-- What avatar base or starting route is suitable.
-- Which assets and personalised components could produce the desired result.
-- Where each option comes from, with direct creator/listing links.
-- Which options are free or paid and what their listed prices were when checked.
-- What is known about compatibility, dependencies and technical requirements.
-- What remains uncertain or needs hands-on testing.
-- Which parts may require adjustment, fitting, Blender/Unity work or custom creation.
-- What the likely asset budget is, separately from any creator or production labour.
-- What practical next steps they can take, independently or with a creator.
+- **Customer-led / brief-led:** The customer gives us a clear brief and wants us to research, organise and deliver with minimal ongoing input.
+- **Guided collaboration:** The customer wants to explore ideas, discuss options, receive recommendations and make creative decisions with us.
+- **Defined task / discovery:** The customer already knows what they need and wants a focused search, asset list, compatibility investigation or costed recommendation.
+- **Creative development:** The customer has an early idea and wants help developing it into a more complete character concept and specification.
 
-The report must distinguish source-confirmed compatibility from evidence-supported, plausible-but-unverified and incompatible options. A visual or text match is not proof that an asset will work with a particular avatar, rig, body, version or project.
+These are working modes, not rigid customer categories or necessarily separate products. We agree the scope and communication style case by case. We should be upfront with customers about the work involved, what we can deliver, what remains uncertain and where human judgement or customer decisions are needed.
 
-### Customer journey
+### The character journey and service levels
 
-1. **Describe the character.** The customer submits a fursona/persona brief, an existing specification sheet or an existing avatar reference, with their platform, budget, preferences and constraints.
-2. **Clarify the requirements.** We resolve material ambiguity, identify must-haves and record assumptions.
-3. **Research the options.** We investigate relevant bases, bodies, heads, hair, clothing, accessories, props and other assets across supported sources.
-4. **Assess fit and dependencies.** We record compatibility evidence, technical requirements, licence information, dependencies and confidence.
-5. **Identify the gaps.** We show what is available, what needs adjustment and what may need custom work.
-6. **Deliver the blueprint.** The customer receives a structured plan with alternatives, source links, prices and dates checked, estimated spend, caveats and next steps.
-7. **Leave the choice with the customer.** They can use the blueprint themselves, take it to any creator, or separately ask us about production.
+The service can support a customer from an initial idea through to a detailed production-ready brief. Greater creative involvement, research depth, technical checking and custom work require more time and should be reflected in the fee.
 
-### Standalone first, production optional
+The current tiering principle is therefore **price according to the work and value involved**, rather than forcing every customer through the same sequence. The precise tier names, deliverables, boundaries and prices remain to be defined.
 
-The blueprint must be valuable even if the customer never buys anything else from us. It is not a disguised sales funnel and must not withhold useful information to force a production commission.
+A possible progression is:
 
-A separate avatar-production service may be offered as an optional next step, with its own scope and quote. The customer remains free to use another creator or assemble the avatar themselves.
+1. **Idea to starting concept:** The customer may begin with little more than an idea. We can provide a fursona or persona template as a helpful starting point, included with the initial paid service rather than advertised as a free standalone product. It gives the customer something useful to reflect on and complete themselves, and helps shape a clearer brief. It is an aid, not a barrier to customers who prefer to talk through their idea.
+2. **Concept to character sheet:** Where requested, we help develop the idea into a coherent character specification, including identity, appearance, colours, markings, clothing, accessories, personality, visual references and distinctive details.
+3. **Character sheet to visual blueprint and costing:** We investigate suitable avatar foundations and components, identify existing assets and close matches, record source links and listed prices, assess compatibility and dependencies, estimate asset spend, and identify what would need adapting or creating.
+4. **Blueprint to custom creation or production:** Where an existing asset is close but not quite right, we can offer a custom alternative. Individual items such as hats, clothing, accessories or other character-specific details may be commissioned from us. Where appropriate and separately agreed, the customer may progress into the Auto-Avatars production service.
 
-The related [Auto-Avatars project](https://github.com/dragonzheartzz/Auto-Avatars) is a separate technical/production workstream. It explores avatar diagnostics, repair, asset integration and production workflows. It is not a dependency for delivering the initial standalone blueprint. Any future hand-off must be based on a verified interface and explicit customer approval.
+A customer may enter at any stage, skip stages they do not need, or stop after receiving a useful deliverable. The character sheet or specification is not automatically the end of our involvement.
+
+### Templates and automation
+
+Reusable fursona and persona templates should exist as part of the service toolkit. They help customers articulate what they want and give us consistent structured inputs. They are a practical starting resource, not a claim that every customer must complete a form before we can help.
+
+Asset lists, source records, prices, links and other repeatable research outputs should be handled through structured templates and automated processes wherever practical. This should improve consistency, speed and repeatability, while leaving human review and customer collaboration in place where judgement, interpretation or quality assurance matter.
+
+Automation should support the service rather than dictate the customer experience. We should not imply that every compatibility claim or creative decision is automated or verified when it is not.
+
+### One-to-one human and AI collaboration
+
+Transparency is fundamental. Customers should understand that this is a human-and-AI collaboration. Depending on their brief, our work may include web research, structured asset discovery, creative guidance, technical assessment, custom asset creation or a hand-off to a production service.
+
+The amount of direct creative involvement will vary by customer and by task. Some customers want us to take a brief and handle the work independently; others want close guidance and discussion. Both are valid. We must be honest about what AI assists with, what human judgement contributes, who is responsible for decisions and what has or has not been checked.
+
+Every customer should have a clear one-to-one relationship with us, even when parts of the workflow are automated.
+
+### The emotional objective
+
+This service is about more than finding a 3D model or collecting marketplace links. A fursona or persona can represent an identity, an aspiration, a creative expression or a character someone has imagined and cared about for a long time.
+
+We want customers to feel that we take their idea seriously and are genuinely committed to helping them achieve something personal that they will love and grow attached to.
+
+This should be demonstrated through the service itself:
+- Listen to what makes the character meaningful and distinctive to the customer.
+- Welcome early, incomplete or non-technical ideas without making customers feel out of their depth.
+- Respect the customer's creative ownership and preferences.
+- Offer guidance without taking over decisions the customer wants to make.
+- Be clear about limitations, compromises, costs and what can be made more faithfully through custom work.
+- Treat the details that matter to the customer as important, not incidental.
+
+This emotional commitment is a service and quality principle, not merely a marketing slogan.
+
+### Research, sourcing and the customer outcome
+
+The blueprint should give the customer a useful, portable result. Depending on the agreed scope, it may cover:
+
+- Character concept and visual direction.
+- Suitable avatar base, body, head or foundation.
+- Clothing, hair, accessories, props, textures and other components.
+- Original creator or marketplace links.
+- Listed prices and the date checked.
+- Compatibility evidence, dependencies and technical requirements.
+- Licence and provenance considerations.
+- Alternatives and close matches.
+- Gaps that require fitting, adjustment, modification or custom creation.
+- Estimated asset spend, clearly separated from our service and production fees.
+- Practical next steps and optional routes into custom work.
+
+The customer must be able to take a blueprint to any creator or use it independently. We must not withhold useful information to force a production commission.
+
+Compatibility should be labelled honestly: source-confirmed, evidence-supported but unverified, unknown, or incompatible. A visual match or search result is not proof that an asset works with a particular avatar, rig, body, version or project.
+
+### Custom creation and Auto-Avatars
+
+An important commercial opportunity arises when research identifies a gap between what exists and what the customer actually wants. For example, we may find a hat that is close to the customer's design but not quite right. We can present the existing option honestly and, if the customer prefers, offer to create a personalised version.
+
+This creates a natural route from discovery into our own asset creation: we can help customers find existing items where those are suitable, and make individual items where a closer personal fit is worth the additional cost.
+
+Where the brief calls for a more complete avatar build or production workflow, the customer may be offered a separate Auto-Avatars service. This is a potential downstream route, not a prerequisite for Avatar Blueprint. The two projects retain separate scope, governance and delivery records. Any production hand-off requires a verified capability, clear scope and customer agreement.
+
+We should aim to be competitively priced and offer strong value through personalisation and collaboration. We should not promise to undercut every existing creator in every case before our own costs, time and quality are established.
 
 ### Initial customer groups to investigate
 
-- People new to avatar creation who know what they want but do not know how to find or combine the right assets.
-- Fursona/persona-led users who want a more faithful and personalised representation.
-- Existing avatar owners who want a coordinated redesign, outfit or set of accessories.
-- Creators and commissioners who may value a faster, structured sourcing and preparation process.
+- People who have an idea for a fursona or persona but do not know how to develop or realise it.
+- Customers with an existing character sheet who need sourcing, asset matching or costing.
+- Existing avatar owners who want a redesign, outfit, accessory or new feature.
+- Customers who know exactly what they want and prefer to delegate the research or asset work.
+- Customers who want a collaborative creative partner and guidance through the process.
 
-These are candidate segments, not validated customer groups. The initial focus is likely VRChat, because the existing research is strongest there. Other avatar ecosystems require separate research into catalogues, formats, compatibility and platform rules.
+These are candidate needs and entry points, not validated market segments. The initial research base is strongest around VRChat; other avatar ecosystems require separate investigation.
 
-### What makes the service worth paying for?
+### Research and marketing responsibilities
 
-Basic asset search, filters, directories and some compatibility tools already exist, often for free. The service cannot rely on simply collecting links.
+Pheme owns consumer signals, customer research and market intelligence for this project: customer needs, language, frustrations, aspirations, existing alternatives, buying motivations, objections and evidence of willingness to pay. Useful customer language and research findings should be retained in a form that can later inform service decisions and marketing.
 
-The differentiation hypothesis is the combination of:
-
-- Persona-led interpretation of the customer's whole desired look.
-- Cross-source research rather than dependence on one catalogue.
-- A coherent component plan, not isolated search results.
-- Transparent compatibility confidence and technical dependencies.
-- Licence and provenance awareness.
-- A realistic cost picture and clear identification of custom-work gaps.
-- A portable result that the customer can take to any creator.
-
-This differentiation remains a hypothesis. Source coverage, customer value, willingness to pay and delivery economics have not yet been demonstrated.
+Iris owns advertising and marketing. When the service and research are sufficiently developed, Pheme's evidence can inform Iris's positioning, messaging, campaigns and customer communication. These are distinct responsibilities; this brief does not commission either specialist.
 
 ### Commercial hypotheses
 
@@ -84,7 +129,9 @@ Earlier working price hypotheses were:
 - **Basic blueprint:** £5–£9.
 - **Detailed blueprint:** £12–£20.
 
-These are unvalidated research hypotheses, not approved prices or established market rates. Delivery time, correction/support burden, customer willingness to pay and the appropriate report scope must be measured before an offer is finalised. Asset purchases are separate from the service fee.
+These are unvalidated research hypotheses, not approved prices or established market rates. The current commercial principle is that fees should increase with the amount of creative involvement, research depth, technical assessment, custom work and support required. Exact tiers, deliverables, production pricing and unit economics remain open.
+
+Asset purchases are separate from our service fee unless a future offer explicitly defines otherwise. Custom creation and Auto-Avatars production should have clear scopes and quotes.
 
 ### Trust, rights and quality principles
 
@@ -98,12 +145,15 @@ These are unvalidated research hypotheses, not approved prices or established ma
 - Distinguish an editable asset workflow from a ready-to-use avatar purchase that may not include source files.
 - Minimise customer data and explain how persona information and reference material are used.
 - Do not claim legal advice or guarantee rights outcomes.
+- Be transparent about the human-and-AI nature of the service and the actual level of human review.
 
 ### Current project position
 
-The initial concept and research brief were created on 27 October 2026. A three-perspective review was completed on 28 October 2026. The recorded recommendation was to advance to bounded concept-planning/specification work with Athena, but the CEO decision remained pending in the source record.
+The initial concept and research brief were created on 27 October 2026. A three-perspective review was completed on 28 October 2026. On 19 November 2026, Tilly and Metis developed and agreed the current working service vision recorded in this brief.
 
-**Current status: foundation and documentation setup. Concept-planning authorisation, implementation, customer testing, spending, marketplace integration, asset acquisition and launch are not inferred or authorised by this README.**
+This is a concept-level direction for Stage 1, not a completed operational specification. Exact tiers, intake, deliverable schemas, supported sources, automation design, quality controls, prices, customer terms and delivery economics still require definition and validation.
+
+**Current status: repository foundation verified; service vision documented; detailed requirements and subsequent stages remain open.** No implementation, customer testing, spending, marketplace integration, asset acquisition or launch is authorised by this README.
 
 The existing research identified free discovery substitutes, adjacent paid creator services, unvalidated standalone demand and meaningful labour/compatibility risks. Those challenges remain live. See the [historical research log](docs/Research-Log-2026-10-27-onward.md) and [three-perspective review](docs/Three-Perspective-Review-2026-10-28.md).
 
