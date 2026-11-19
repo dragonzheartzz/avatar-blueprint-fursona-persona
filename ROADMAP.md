@@ -12,7 +12,7 @@ Roadmap stages are proposed sequencing, not automatic authority to execute. Each
 
 ## Stage 0: Project foundation and provenance
 
-**Status: IN PROGRESS**
+**Status: COMPLETE, verified 19 November 2026**
 
 - Establish the dedicated GitHub repository.
 - Make the README the current service brief and project entry point.
@@ -126,4 +126,4 @@ Candidate work:
 
 ## Current next step
 
-Complete and verify the repository foundation, then present the historical status and proposed Stage 1 decision to Tilly. Do not silently treat the October recommendation as approval.
+Repository foundation and historical-document import were completed and verified on 19 November 2026. The next decision is whether to authorise Stage 1 service definition and requirements work. Do not silently treat the October recommendation as approval.
